@@ -18,6 +18,10 @@
 
 https://katachii.com/
 
+### Back-End 코드 샘플
+
+https://github.com/Alice-Yoon/Katachii-Back--sample/tree/master
+
 -----
 
 **실제 개발할때 사용한 repository는 private으로 설정되어 있습니다. 
