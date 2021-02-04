@@ -9,10 +9,10 @@
 
 ### 기술 스택
 
-**Front**: React.js + Redux
-**Back**: Node.js + Express
-**DB**: MongoDB + Mongoose
-**배포**: AWS EC2
+- **Front**: React.js + Redux
+- **Back**: Node.js + Express
+- **DB**: MongoDB + Mongoose
+- **배포**: AWS EC2
 
 ### 서비스 링크
 
